@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'Chulabhorn Likhit Text Bold';
+  src: url('chulabhornlikittext-bold.eot');
+	src: url('chulabhornlikittext-bold.eot?#iefix') format('embedded-opentype'),
+		url('chulabhornlikittext-bold.woff2') format('woff2'),
+		url('chulabhornlikittext-bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chulabhorn Likhit Text Medium';
+  src: url('chulabhornlikittext-medium.eot');
+	src: url('chulabhornlikittext-medium.eot?#iefix') format('embedded-opentype'),
+		url('chulabhornlikittext-medium.woff2') format('woff2'),
+		url('chulabhornlikittext-medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chulabhorn Likhit Display Medium';
+  src: url('chulabhornlikitdisplay-medium.eot');
+	src: url('chulabhornlikitdisplay-medium.eot?#iefix') format('embedded-opentype'),
+		url('chulabhornlikitdisplay-medium.woff2') format('woff2'),
+		url('chulabhornlikitdisplay-medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chulabhorn Likhit Text Regular';
+  src: url('chulabhornlikittext-regular.eot');
+	src: url('chulabhornlikittext-regular.eot?#iefix') format('embedded-opentype'),
+		url('chulabhornlikittext-regular.woff2') format('woff2'),
+		url('chulabhornlikittext-regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Chulabhorn Likhit Text Light';
+  src: url('chulabhornlikittext-light.eot');
+	src: url('chulabhornlikittext-light.eot?#iefix') format('embedded-opentype'),
+		url('chulabhornlikittext-light.woff2') format('woff2'),
+		url('chulabhornlikittext-light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+}
